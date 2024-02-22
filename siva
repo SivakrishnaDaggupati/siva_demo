@@ -4,5 +4,10 @@ git commands test
 git practice purpose
 without commtting file 
 new line
+<<<<<<< HEAD
 another line 
 master branch
+=======
+another line
+hello development branch 
+>>>>>>> development
